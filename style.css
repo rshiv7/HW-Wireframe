@@ -4,6 +4,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: 0 auto;
     }
 
 header {
@@ -25,22 +26,27 @@ nav {
 
 section {
     background: #ebebeb;
-    padding: 50px;
+    width: 495px;
+    height: 50%;
+    padding: 30px;
     text-align: center;
     font-size: 18px;
     margin-bottom: 2%;
     float: left;
-    margin-right: 1%;
+    overflow: hidden;
     
     }    
 
 aside {
     background: #ebebeb;
-    padding: 50px;
+    padding: 30px;
+    width: 35%;
     text-align: center;
     font-size: 18px;
     margin-bottom: 2%;
-    margin-left: 1%;
+    float: right;
+    ;
+    
     }    
 
 footer {
@@ -48,4 +54,34 @@ footer {
     padding: 50px;
     text-align: center;
     font-size: 18px;
+    margin-top: 37%;
+
     }    
+
+.article {
+    color: #ebebeb;
+    background: #777;
+    overflow: hidden;
+    padding: 30px;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    }
+
+.chicken{
+    color: #777;
+    background: #ebebeb;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    overflow: hidden;
+    display: block;
+}
+
+.paragraph{
+    color: #777;
+    background: #ebebeb;
+    margin-bottom: 2%;
+    overflow: hidden;
+    ;
+    
+}
+   
