@@ -1,6 +1,6 @@
 # HW-Wireframe
 
-![Screenshot](HW-Wireframe/Screenshot/Wireframe Screenshot.png)
+![Screenshot]
 
 ## First Bootcamp Homework.
 
